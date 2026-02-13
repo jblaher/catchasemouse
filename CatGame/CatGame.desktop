@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Cat Chase Mouse
+Comment=20x30 grid game: catch the mouse with the cat
+Exec=/bin/bash /home/jblaher/CatGame/run-catgame-gui.sh
+Path=/home/jblaher/CatGame
+Icon=games-simulator
+Terminal=true
+Categories=Game;ArcadeGame;
