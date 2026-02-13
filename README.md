@@ -1,0 +1,2 @@
+The is Cat Chase Mouse, a game created on the Q2 Red Hat Day of Learning using [Cursor](https://cursor.com/download) and [SpecKit](https://github.com/github/spec-kit?tab=readme-ov-file). The object of the game is for the user to chase the mouse and capture it. Scores are captured by fewest number of moves for the leaderboard. Additionally, the a portion of the obstacles randomly change every few moves.  
+
